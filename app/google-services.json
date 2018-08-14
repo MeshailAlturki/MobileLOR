@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "740979059526",
+    "firebase_url": "https://mobilelor-4a6c5.firebaseio.com",
+    "project_id": "mobilelor-4a6c5",
+    "storage_bucket": "mobilelor-4a6c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740979059526:android:8a6ed90e378cefe1",
+        "android_client_info": {
+          "package_name": "lorteam.mobilelor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740979059526-6dptlfpkf4d5jhs1lj2gitq2f8abn1vl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lorteam.mobilelor",
+            "certificate_hash": "d533d602c3a5274629af80bc5db5a7400d2136c5"
+          }
+        },
+        {
+          "client_id": "740979059526-frc2niqg4nt5vm1f4v3enbde2cvmv8tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf6O7GrDTuxKlHR7DXzaghc7zByfdjQM4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740979059526-frc2niqg4nt5vm1f4v3enbde2cvmv8tf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
